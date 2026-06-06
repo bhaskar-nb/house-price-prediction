@@ -1,0 +1,49 @@
+# House Price Prediction System
+
+## Overview
+
+This project is a machine learning-based web application that predicts house prices based on various property features. The application allows users to enter property details and receive an estimated house price in real time.
+
+## Features
+
+* House price prediction using Machine Learning
+* Interactive Streamlit web interface
+* Data preprocessing and model training
+* Real-time prediction results
+* User-friendly design
+
+## Technologies Used
+
+* Python
+* Pandas
+* NumPy
+* Scikit-learn
+* Streamlit
+
+## Project Workflow
+
+1. Data Collection
+2. Data Preprocessing
+3. Model Training
+4. Model Evaluation
+5. Streamlit Application Development
+6. House Price Prediction
+
+## How to Run
+
+1. Clone the repository
+2. Install dependencies
+
+pip install -r requirements.txt
+
+3. Run the application
+
+streamlit run app.py
+
+## Learning Outcomes
+
+* Data Analysis
+* Data Preprocessing
+* Machine Learning Model Development
+* Streamlit Application Development
+* Predictive Analytics
